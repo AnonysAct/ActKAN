@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-'''
-    author   : zhao huang
-    time     : 2024/11/18 16:12
-    Filename : KAN.py
-
-'''
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
